@@ -1,0 +1,62 @@
+[
+  {
+    "employeeId": 1,
+    "name": "Amar",
+    "salary": 10000,
+    "department": "HR",
+    "age": 25,
+    "gender": "M",
+    "city": "Ahemdabad",
+    "yearOfJoining": "2000"
+  },
+  {
+    "employeeId": 2,
+    "name": "Bain",
+    "salary": 20000,
+    "department": "Accounts",
+    "age": 26,
+    "gender": "M",
+    "city": "Bangalore",
+    "yearOfJoining": "2001"
+  },
+  {
+    "employeeId": 3,
+    "name": "Catherin",
+    "salary": 30000,
+    "department": "Accounts",
+    "age": 25,
+    "gender": "F",
+    "city": "Ahemdabad",
+    "yearOfJoining": "2002"
+  },
+  {
+    "employeeId": 4,
+    "name": "Donna",
+    "salary": 35000,
+    "department": "Development",
+    "age": 26,
+    "gender": "F",
+    "city": "Delhi",
+    "yearOfJoining": "2003"
+  },
+  {
+    "employeeId": 5,
+    "name": "Emma",
+    "salary": 38000,
+    "department": "Development",
+    "age": 29,
+    "gender": "F",
+    "city": "Enlakulam",
+    "yearOfJoining": "2004"
+  },
+  {
+    "employeeId": 6,
+    "name": "Frank",
+    "salary": 40000,
+    "department": "Management",
+    "age": 30,
+    "gender": "M",
+    "city": "Delhi",
+    "yearOfJoining": "2005"
+  }
+]
